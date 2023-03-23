@@ -9,3 +9,9 @@ The face mask detection system uses deep learning algorithms, specifically convo
 The system can be integrated with an access control system to prevent entry of individuals without a mask, or it can be used to trigger an alert for a security personnel to approach the individual and remind them to wear a mask. In addition, the system can generate real-time data reports to help authorities monitor compliance with mask-wearing policies.
 
 Overall, the face mask detection system is an innovative technology that can help promote public health and safety by ensuring that individuals wear masks in public areas where it is mandatory.
+
+
+## After succesful execution of this notebook you will get a .h5 file where your model is saved as Mask_Model.h5 file. You just deploy it using Flask or any other deployment tools.
+
+
+## For any Queries kindly Ping me @kadaliaswinkumar143@gmail.com
