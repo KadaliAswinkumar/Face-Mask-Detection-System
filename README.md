@@ -14,4 +14,4 @@ Overall, the face mask detection system is an innovative technology that can hel
 ## After succesful execution of this notebook you will get a .h5 file where your model is saved as Mask_Model.h5 file. You just deploy it using Flask or any other deployment tools.
 
 
-## For any Queries kindly Ping me @kadaliaswinkumar143@gmail.com
+## For any Queries kindly Ping me @kadaliaswinkumar@gmail.com
